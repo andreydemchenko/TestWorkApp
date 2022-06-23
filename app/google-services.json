@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1097804471238",
+    "project_id": "testworkapp-257f6",
+    "storage_bucket": "testworkapp-257f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097804471238:android:f334bc2b26c074c9cab0c7",
+        "android_client_info": {
+          "package_name": "ru.turbopro.testworkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097804471238-08pobe0juvf4u67m66f1d1b105ttfd9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.turbopro.testworkapp",
+            "certificate_hash": "900b0b4696a5dd18286910d433e67fb4e7abe74c"
+          }
+        },
+        {
+          "client_id": "1097804471238-tf0uioitqmfpi392kv35spuaronr1je5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL0mi0bEGlFaWpfa-_rCZ8Oh5xql5VP6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097804471238-tf0uioitqmfpi392kv35spuaronr1je5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
